@@ -1,13 +1,12 @@
 # GLPI-PoC
 GLPI PoC - Security advisory
 
-This repository is used to host our exploitation scripts for the vulnerabilities that have been disclosed to Teclib for the GLPI project.
-The vulnerabilities were patched in 10.0.10 version of GLPI.
+This repository is used to host our exploitation scripts for the vulnerabilities that have been disclosed to Teclib for the GLPI project. The vulnerabilities were patched in 10.0.10 version of GLPI.
 
 # CVE
-CVE-2023-42461 - SQL injection in ITIL actors
-CVE-2023-42462 - File deletion through document upload process
-CVE-2023-42802 - Unallowed PHP script execution
+- CVE-2023-42461 - SQL injection in ITIL actors
+- CVE-2023-42462 - File deletion through document upload process
+- CVE-2023-42802 - Unallowed PHP script execution
 
 # Timeline
 - September 19 2023 : disclosure of the critical vulnerability to the editor with immediate feedback
